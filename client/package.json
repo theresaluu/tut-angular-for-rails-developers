@@ -1,6 +1,9 @@
 {
   "name": "author-wizard",
   "version": "0.0.0",
+  "engines": {
+    "node": "6.6.0"
+  },
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
